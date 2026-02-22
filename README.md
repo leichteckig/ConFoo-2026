@@ -12,15 +12,16 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 
 ## February 25
 | Presentation Title | Speaker Name  | Content |
-|--------------------|---------------|---------|                                                                                                                                           
+|--------------------|---------------|---------|
+
 
 ## February 26
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
-
+| [/^[Rr]eg(ular\s)?[Ee]x(p\|pressions?)?$/](https://confoo.ca/en/2026/session/rr-eg-ular-s-ee-x-p-pressions) | [Jordan Kasper](https://jordankasper.com/) | [pdf](2026-02-26/Regular_Expressions-Jordan_Kasper.pdf) |
 
 
 ## February 27
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
-
+| [Gitting More Out Of Git](https://confoo.ca/en/2026/session/gitting-more-out-of-git) | [Jordan Kasper](https://jordankasper.com/) | [pdf](2026-02-27/Gitting_More_Out_Of_Git-Jordan_Kasper.pdf) |
