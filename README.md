@@ -12,7 +12,8 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 
 ## February 25
 | Presentation Title | Speaker Name  | Content |
-|--------------------|---------------|---------|                                                                                                                                           
+|--------------------|---------------|---------|
+| CSRF are back with Client-Side Path Traversal | [Philippe Arteau](https://blog.h3xstream.com/) | [Slides](https://docs.google.com/presentation/d/1wlNKdPB6S7JET3UxAULSG0L0RtdE0qrfM4X1KGL8pDU/view) |
 
 ## February 26
 | Presentation Title | Speaker Name  | Content |
