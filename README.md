@@ -26,3 +26,4 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
 | Tailwind CSS - Styliser sans devenir fou | Mathys Deshaies | [PDF](2026-02-27/tailwind_css_styliser_sans_devenir_fou-mathys_deshaies.pdf) |
+| 3 Illusions in Software Delivery | Joel Tosi | [PDF](./‎2026-02-27/3_Illusions_In_Software_Delivery-Joel_Tosi.pdf) |
