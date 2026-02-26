@@ -13,15 +13,14 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 ## February 25
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
-| Going Passwordless - A Practical Guide to Passkeys in ASP.NET Core | Maarten Balliauw | [PDF](2026-02-26/passwordless_maarten-balliauw.pdf) |
-| Building a supply chain attack with .NET and NuGet | Maarten Balliauw | [PDF](2026-02-26/supplychain_maarten-balliauw.pdf) |                                                                                                                                                                                                                                   
 | Figma dev mode - Survivre aux designers | Mathys Deshaies | [PDF](2026-02-25/figma_dev_mode_survivre_aux_designers-mathys_deshaies.pdf) |
 
 ## February 26
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
 | From Zero to Emulator CHIP8 and the Art of Abstraction | David Guida | [PDF](./‎2026-02-26/chip8-emulation.pdf)
-
+| Going Passwordless - A Practical Guide to Passkeys in ASP.NET Core | Maarten Balliauw | [PDF](2026-02-26/passwordless_maarten-balliauw.pdf) |
+| Building a supply chain attack with .NET and NuGet | Maarten Balliauw | [PDF](2026-02-26/supplychain_maarten-balliauw.pdf) |          
 
 ## February 27
 | Presentation Title | Speaker Name  | Content |
