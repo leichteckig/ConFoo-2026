@@ -19,6 +19,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Exploring the Power of Browser Storage | Rowdy Rabouw | [Slides (PDF)](2026-02-25/Exploring_the_Power_of_Browser_Storage_Rowdy_Rabouw.pdf) |
 | Figma dev mode - Survivre aux designers | Mathys Deshaies | [PDF](2026-02-25/figma_dev_mode_survivre_aux_designers-mathys_deshaies.pdf) |
 | Beyond the Chatbot, Beyond the IDE: AI in my CI/CD | Justine Gehring | [PDF](2026-02-25/beyond_the_chatbot_beyond_the_ide_ai_in_my_cicd-justine_gehring.pdf) |
+| Managing the human side of a large-scale platform upgrade | Joyce Peralta, Matt Corks  | [PDF](2026-02-25/human_side_large_scale_migration-joyce_peralta_matt_corks.pdf) |
 | Component Testing in 2026, the return of the browser | Guy Nesher | [Slides (PDF)](2026-02-25/component_testing_in_2026_the_return_of_the_browser.pdf) |
 | Boosting Frontend Speed: Quick Wins for Backend Developers | Paul Conroy | [PDF](2026-02-25/boosting_frontend_speed_quick_wins-for_backend_developers-paul_conroy.pdf) |
 | ASP.NET Core: From DEV to PRD | Wesley Cabus | [PDF](2026-02-25/asp_net_core_from_dev_to_prd-wesley-cabus.pdf) |
