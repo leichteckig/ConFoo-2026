@@ -30,6 +30,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | C# Pit of Success | AL Rodriguez | [Slides (PDF)](2026-02-25/csharp_pit_of_success-al-rodriguez.pdf) |
 | Reactive progrmming avec Spring Webflux | Xavier Bouclet | [PDF](2026-02-25/reactive-programming-avec-Spring-Webflux.pdf) |
 | Managing the human side of a large-scale platform upgrade | Joyce Peralta, Matt Corks | [PDF](2026-02-25/human_side_large_scale_migration-joyce_peralta_matt_corks.pdf) |
+| Evolution of Software Architecture Patterns | Ralf Westphal | [PDF with link to whiteboard](2026-02-25/Evolution_of_Software_Architectur_Patterns-Ralf_Westphal.pdf) |
 
 ## February 26
 
@@ -68,3 +69,4 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Découverte des services web avec Rust et Axum| Francis Lavoie| [Slides](2026-02-27/decouverte_rust_axum-Francis_Lavoie.pdf) [Demo/Project](https://gitlab.com/francis_l_projects/rustaxum-starter) |
 | Slack Messaging | Gerard Gallant | [PDF](2026-02-27/Slack_Messaging-Gerard-Gallant.pdf), [notes and code](2026-02-27/Slack_Messaging-Gerard-Gallant.zip) |
 | La qualité des données, un objectif atteignable? | Sherif Behna | [PDF](2026-02-27/qualite_donnees-sherif_behna.pdf) |
+| Event Sourcing without Dogma | Ralf Westphal | [PDF with link to whiteboard](2026-02-27/Event_Sourcing_without_dogma-Ralf_Westphal.pdf) |
