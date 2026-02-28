@@ -56,7 +56,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | A web for anyone, anywhere, anytime | Rowdy Rabouw | [Slides (PDF)](2026-02-27/A_web_for_anyone_anywhere_anytime_Rowdy_Rabouw.pdf) |
 | Tailwind CSS - Styliser sans devenir fou | Mathys Deshaies | [PDF](2026-02-27/tailwind_css_styliser_sans_devenir_fou-mathys_deshaies.pdf) |
 | From Mosaic to Modern: The Evolution of Web App Architectures | Kito D. Mann | [PDF](https://virtua.tech/slides/graphql-distilled-2026/) |
-| 3 Illusions in Software Delivery | Joel Tosi | [PDF](./2026-02-27/3_Illusions_In_Software_Delivery-Joel_Tosi.pdf) |
+| 3 Illusions in Software Delivery | Joel Tosi | [PDF](2026-02-27/3_Illusions_In_Software_Delivery-Joel_Tosi.pdf) |
 | JDK 25’s new CPU-Time Profiler | Johannes Bechberger | [PDF](2026-02-27/cpu_time_profiler-johannes_bechberger.pdf) |
 | The 2025 OWASP Top Ten | Christian Wenz | [PDF](2026-02-27/the_2025_owasp_top_ten-christian_wenz.pdf) |
 | Container Deep Dive - Namespaces, Layers, and cgroups | Daniel Mikusa | [PDF](2026-02-27/container_deep_dive_namespaces_layers_and_cgroups.pdf) & [DEMOS](https://github.com/dmikusa/container-deep-dive-slides/tree/main/demos) |
@@ -64,3 +64,4 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Gitting More Out Of Git | [Jordan Kasper](https://jordankasper.com/) | [pdf](2026-02-27/Gitting_More_Out_Of_Git-Jordan_Kasper.pdf) |
 | Coding C# with C# | AL Rodriguez | [Slides (PDF)](2026-02-27/coding_csharp_with_csharp-al-rodriguez.pdf) |
 | Découverte des services web avec Rust et Axum| Francis Lavoie| [Slides](2026-02-27/decouverte_rust_axum-Francis_Lavoie.pdf) [Demo/Project](https://gitlab.com/francis_l_projects/rustaxum-starter) |
+| Slack Messaging | Gerard Gallant | [PDF](2026-02-27/Slack_Messaging-Gerard-Gallant.pdf), [notes and code](2026-02-27/Slack_Messaging-Gerard-Gallant.zip) |
