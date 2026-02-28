@@ -28,6 +28,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | CSRF are back with Client-Side Path Traversal | [Philippe Arteau](https://blog.h3xstream.com/) | [Slides](https://docs.google.com/presentation/d/1wlNKdPB6S7JET3UxAULSG0L0RtdE0qrfM4X1KGL8pDU/view) |
 | The Crucial Role of AI Evaluations | Michael Dawson | [PDF](2026-02-25/The_crucial_role_of_AI_evaluations-michael_dawson.pdf) |
 | C# Pit of Success | AL Rodriguez | [Slides (PDF)](2026-02-25/csharp_pit_of_success-al-rodriguez.pdf) |
+| Reactive progrmming avec Spring Webflux | Xavier Bouclet | [PDF](2026-02-25/reactive-programming-avec-Spring-Webflux.pdf) |
 
 ## February 26
 
@@ -46,6 +47,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Building PHP Applications with the Symfony Framework in 2026 | David Buchmann | [HTML](2026-02-26/david-buchmann-building-php-symfony.html) |
 | Ramping up on Llama Stack for developing AI applications | Michael Dawson | [PDF](2026-02-26/Ramping_up_on_Llama_Stack_for_developing_AI_applications-michael_dawson.pdf) |
 | Building a supply chain attack with .NET and NuGet | Maarten Balliauw | [PDF](2026-02-26/supplychain_maarten-balliauw.pdf) |          
+| OpenTelemetry & Spring Boot | Xavier Bouclet | [PDF](2026-02-26/opentelemetry-&-Spring-Boot.pdf) |
 
 ## February 27
 
